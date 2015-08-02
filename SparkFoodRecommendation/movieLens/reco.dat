@@ -1,0 +1,20 @@
+1::any_kw=chicken&title_kw=egg::Non Vegetarian
+2::any_kw=tomato&title_kw=cheese::Vegetarian
+3::any_kw=chicken&title_kw=beef::Non Vegetarian
+4::any_kw=ham&title_kw=cheese::Non Vegetarian
+5::any_kw=chicken&title_kw=olives::Non Vegetarian
+6::any_kw=pasta&title_kw=egg::Non Vegetarian
+7::any_kw=chicken&title_kw=bagel::Non Vegetarian
+8::any_kw=chicken&title_kw=spinach::Non Vegetarian
+9::any_kw=ham&title_kw=tomato::Non Vegetarian
+10::any_kw=oil&title_kw=potato::Vegetarian
+11::any_kw=chicken&title_kw=cream::Non Vegetarian
+12::any_kw=yogurt&title_kw=strawberry::Vegetarian
+13::any_kw=milk&title_kw=chicken::Non Vegetarian
+14::any_kw=mustard&title_kw=egg::Non Vegetarian
+15::any_kw=mayo&title_kw=chicken,potato::Non Vegetarian
+16::any_kw=beef&title_kw=spinach,milk::Non Vegetarian
+17::any_kw=garlic&title_kw=tomato::Vegetarian
+18::any_kw=cucumber&title_kw=lettuce::Vegetarian
+19::any_kw=fish&title_kw=mushroom::Non Vegetarian
+20::any_kw=salmon&title_kw=milk::Non Vegetarian
